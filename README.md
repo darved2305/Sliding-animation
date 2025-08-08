@@ -6,14 +6,14 @@ This is a small experimental project I built while **just trying out** sliding a
 
 ---
 
-## 🚀 Overview
+## Overview
 - Created to explore smooth slide transitions and micro-interactions.
 - Minimal, clean design focusing on the earpods as the hero element.
 - Fully responsive for mobile and desktop.
 
-## 🧰 Tech Stack
+## Tech Stack
 - **HTML5**  
-- **CSS3** (Flexbox, Grid, Transitions)  
-- **JavaScript (ES6+)**  
+- **CSS3** 
+- **JavaScript**  
 
 ---
